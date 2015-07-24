@@ -1,0 +1,10 @@
+export(
+GIC,
+lmmCCC,
+lmmR2LR,
+lmmR2W,
+lmmR2,
+lmmPRESS,
+structStep,
+structStepR2
+)
